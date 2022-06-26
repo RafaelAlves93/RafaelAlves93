@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 src="https://img.shields.io/github/followers/RafaelAlves93?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-<!--<p align="left"> <a href="https://www.github.com/RafaelAlves93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>-->
+<!--<p align="left"> <a href="https://www.github.com/RafaelAlves93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-![Rafael Alves's GitHub stats](https://github-readme-stats.vercel.app/api/?username=RafaelAlves93&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Rafael Alves's GitHub stats](https://github-readme-stats.vercel.app/api/?username=RafaelAlves93&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
+![Rafael Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAlves93&count_private=true&show_icons=true&theme=synthwave&text_color=9f9f9f&bg_color=151515)
