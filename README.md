@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/RafaelAlves93" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RafaelAlves93?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=RafaelAlves93&count_private=true&show_icons=true&theme=synthwave&text_color=9f9f9f&bg_color=151515)
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelAlves93&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=9f9f9f&bg_color=151515">
