@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
- <a href="https://www.github.com/RafaelAlves93" target="_blank" rel="noreferrer"><img
- src="https://img.shields.io/github/followers/RafaelAlves93?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
- ![](https://komarev.com/ghpvc/?username=RafaelAlves93)
-</div>
+
+<a href="https://www.github.com/RafaelAlves93" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RafaelAlves93?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
+![](https://komarev.com/ghpvc/?username=RafaelAlves93)
+
 
  <div align="center">
   <a href="https://github.com/RafaelAlves93">
