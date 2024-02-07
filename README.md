@@ -24,9 +24,9 @@ src="https://img.shields.io/github/followers/RafaelAlves93?logo=github&style=for
 
 <p align="center">
   <a href="https://github.com/RafaelAlves93">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelAlves93&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelAlves93&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
   </a>
   <a href="https://github.com/RafaelAlves93">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves93&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves93&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" />
   </a>
 </p>
